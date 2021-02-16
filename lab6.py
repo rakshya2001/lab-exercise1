@@ -3,7 +3,11 @@ if num<0:
     print('Number is negative')
 print('Program is over')
 #in case of even
+<<<<<<< HEAD
 num=int(input('Enter the number'))
+=======
+num=float(input('Enter the number'))
+>>>>>>> ee923be (labbb)
 if num%2==0:
     print('Number is even')
 else:
